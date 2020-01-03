@@ -1,8 +1,10 @@
-# My Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/Syknapse/My-Learning-Tracker&via=syknapse&hashtags=100DaysofCode)
+## *In Process of Updating/Revising after Fork*
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
+# Skills Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Dev%20Skils%20tracker%20&url=https://github.com/jadefiredev/skills-tracker&via=jadefire&hashtags=100DaysofCode)
 
-[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/ "https://syknapse.github.io/Syk-Houdeib") || [For my learning log click here](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
+A log of my development skills, learning, resources, highlights, interests, and everything to do with my learning journey. It's a way to keep track, organise, and share my learning.
+
+[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/ "https://syknapse.github.io/Syk-Houdeib") || [For my learning log click here](https://github.com/jadefiredev/skills-tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
 
 ----
 
