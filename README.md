@@ -1,6 +1,6 @@
 ## *In Process of Updating/Revising after Fork*
 
-# Skills Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Dev%20Skils%20tracker%20&url=https://github.com/jadefiredev/skills-tracker&via=jadefire&hashtags=100DaysofCode)
+# Skills Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?hashtags=100DaysofCode&text=Dev%20Skils%20tracker%20&url=https://github.com/jadefiredev/skills-tracker&via=jadefire)
 
 A log of my development skills, learning, resources, highlights, interests, and everything to do with my learning journey. It's a way to keep track, organise, and share my learning.
 
