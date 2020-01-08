@@ -1,93 +1,127 @@
-## *In Process of Updating/Revising after Fork*
+# Development Skills Tracker 
 
-# Skills Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?hashtags=100DaysofCode&text=Dev%20Skils%20tracker%20&url=https://github.com/jadefiredev/skills-tracker) ![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?label=%23100DaysOfCode&style=social&url=https%3A%2F%2Ftwitter.com/intent/tweet&message=Web%20Dev%20learning%20tracker%20&url=https://github.com/jadefiredev/My-Learning-Tracker&via=jadefiredev&hashtags=100DaysofCode)
-
-A log of my development skills, learning, resources, highlights, interests, and everything to do with my learning journey. It's a way to keep track, organise, and share my learning.
-
-[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/ "https://syknapse.github.io/Syk-Houdeib") || [For my learning log click here](https://github.com/jadefiredev/skills-tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
-
-----
-
-## Skills
-
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
-
-|               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
-|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**StoryBook**                     | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Redux**                         | ![done][done]     | ![done][done]          |                  |
-|**Backbone**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Git bash**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Bitbucket**                     | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done]          |                  |
-|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Jira**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Yarn**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Working with APIs**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**PostCSS**                       | ![done][done]     | ![done][done]          |                  |
-|**Stylus**                        | ![done][done]     | ![done][done]          |                  |
-|**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Mobile first**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Markdown**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Website Building**              | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Publishing website**            | ![done][done]     | ![done][done]          |                  |
-|**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
-|**Command line**                  | ![done][done]     | ![done][done]          |                  |
-|**Node.js**                       | ![done][done]     | ![done][done]          |                  |
-|**NPM scripts**                   | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Husky**                         | ![done][done]     | ![done][done]          |                  |
-|**Open Source Contribution**      | ![done][done]     |                        |                  |
-|**Next.js**                       | ![done][done]     |                        |                  |
-|**Angular 4**                     | ![done][done]     |                        |                  |
-
-----
-
-## Learning
+[![#100DaysOfCode](https://img.shields.io/static/v1?label=Tweet&message=%23100DaysOfCode&style=for-the-badge&logo=twitter&labelColor=d5d5d5&color=00acee)](https://twitter.com/share?text=%23100DayOfCode%20Day%20X%20-%20stuffgoeshere&#010;See%20all%20logs%20at&url=https%3A%2F%2Fgithub.com%2Fjadefiredev%2FMy-Learning-Tracker)
 
 [//]: # (Status images)
 
-[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
-[In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
-[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
+[next]: https://user-images.githubusercontent.com/17075861/71936513-e6fd3300-3166-11ea-9246-e8f93feb53e9.png "next up"
+[jfd-icon]: https://user-images.githubusercontent.com/17075861/71936182-f3cd5700-3165-11ea-8ae9-ca5f546c5ddf.png "icon"
+[done]: https://user-images.githubusercontent.com/17075861/71937051-663f3680-3168-11ea-9045-6c9e3ddc8ee3.png "done"
+[progress]: https://user-images.githubusercontent.com/17075861/71946727-e3c66f00-3187-11ea-9245-9d08256aac58.png "in progress"
 
-|            Status           |   Year     | Course                                                          |                Tutor                        |
-|:---------------------------:|:-----------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Dec 2019   | [Getting Started With Redux]                                    | [Dan Abramov] - [egghead.io]                |
-| ![Completed][Completed]     | Dec 2019   | [The Next.js Handbook]                                          | [Flavio Copes]                              |
-| ![Completed][Completed]     | Oct 2019   | [You Don't Know JavaScript]: Types & Grammar                    | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Sept 2019  | [You Don't Know JavaScript]: Objects & Classes                  | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Jul 2019   | [You Don't Know JavaScript]: Scope & Closure                    | [Kyle Simpson]                              |
-| ![Completed][Completed]     | May 2019   | [Eloquent JavaScript]                                           | [Marijn Haverbeke]                          |
-| ![Completed][Completed]     | Feb 2019   | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
-| ![Completed][Completed]     | Jan 2019   | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
-| ![Completed][Completed]     | Aug 2018   | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![Completed][Completed]     | Feb 2018   | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018   | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017       | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017       | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017       | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017       | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017       | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |            | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![In Progress][In Progress] |            | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |            | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![Soon][Soon]               |            | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
+A tool to plan, track, and share my progress in renewing and upgrading my technical skills and experience. Includes courses taken, coding projects, and helpful resources found along the way.
+
+[Learning logs](https://github.com/jadefiredev/skills-tracker/blob/master/log-index.md "A complete list of ")  ||  [Projects](https://github.com/jadefiredev/skills-tracker/blob/master/projects.md "A complete list of projects with descriptions, technology used, and links")  ||  [Notes](https://github.com/jadefiredev/skills-tracker/blob/master/notes.md "Notes from courses, coding examples, and tips picked up along my journey.")
+
+---
+
+## Skills
+
+Technical skill competencies are based on the proficiency levels defined by [Microsoft’s Education Competencies](https://www.microsoft.com/en-us/education/training-and-events/education-competencies/technical_skills.aspx "Microsoft's Education Competencies") and the [National Institutes of Health (NIH) Office of Human Resources Competencies Proficiency Scale](https://hr.nih.gov/working-nih/competencies/competencies-proficiency-scale "NIH Competencies Proficiency Scale")
+
+|           FRONTEND               |   1<br>Basic   |   2<br>Intermediate   |   3<br>Advanced   |   4<br>Expert |
+|:-------------------------------- |:--------------:|:---------------------:|:-----------------:|:-------------:|
+|**HTML5**                         |                |                       |                   |               |
+|**CSS3**                          |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+
+<br> <!-- to add space between tables -->
+
+|            BACKEND               |   1<br>Basic   |   2<br>Intermediate   |   3<br>Advanced   |   4<br>Expert |
+|:-------------------------------- |:--------------:|:---------------------:|:-----------------:|:-------------:|
+|**HTML5**                         |                |                       |                   |               |
+|**CSS3**                          |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+
+<br> <!-- to add space between tables -->
+
+|          ADDITIONAL              |   1<br>Basic   |   2<br>Intermediate   |   3<br>Advanced   |   4<br>Expert |
+|:-------------------------------- |:--------------:|:---------------------:|:-----------------:|:-------------:|
+|**HTML5**                         |                |                       |                   |               |
+|**CSS3**                          |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+|                                  |                |                       |                   |               | 
+
+---
+
+## Tools
+
+Tool competency and proficiency levels are based on the levels defined by [The University of British Columbia’s Career Framework](https://careerframework.ubc.ca/competencies/ "Career Framework for competencies")
+
+|          TOOL              |    Being<br>Developed    |     Basic     |   Intermediate    |    Advanced   |     Expert    |
+|:-------------------------- |:------------------------:|:-------------:|:-----------------:|:-------------:|:-------------:|
+|**HTML5**                   |      ![jfd-icon]         |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+|                            |                          |               |                   |               |               |
+
+---
+
+## Learning
+
+[Course notes, coding examples, and tips](https://github.com/jadefiredev/skills-tracker/blob/master/notes.md "Notes from courses, coding examples, and tips picked up along my journey.")
+
+|    Status     |   Date     | Course                                           |                Instructor                   |
+|:-------------:|:-----------|:-------------------------------------------------|:-------------------------------------------:|
+| ![progress]   | Dec 2019   |[Free Code Camp - Responsive Web Design]          | [Free Code Camp]                            |
+| ![done]       | Dec 2019   | [Free Code Camp - Responsive Web Design]         | [Free Code Camp]                            |
+| ![next]       | Dec 2019   | [Free Code Camp - Responsive Web Design]         | [Free Code Camp]                            |
+|               |            |                                                  |                                             |
+|               |            |                                                  |                                             |
+|               |            |                                                  |                                             |
+|               |            |                                                  |                                             |
+|               |            |                                                  |                                             |
+|               |            |                                                  |                                             |
+|               |            |                                                  |                                             |
 
 [//]: # (Reference links to courses)
 
@@ -136,96 +170,57 @@ A log of my development skills, learning, resources, highlights, interests, and 
 [Kent C Dodds]: https://egghead.io/instructors/kentcdodds
 [egghead.io]: https://egghead.io/
 
-### Paths
+---
 
-| Paths with multiple resources                             |            Author            |
-|:----------------------------------------------------------|:----------------------------:|
-| [33 concepts every JavaScript developer should know]      | [Leonardo Maldonado]         |
-| [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
-| [Learn to code in 2018]                                   | [Andrei Neagoie]             |
-| [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
-| [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
+## Resources
 
-[//]: # (Reference links to paths)
+### Tools
++ [The W3C Markup Validation Service](https://validator.w3.org/)
++ [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
++ [WebAIM's WCAG 2 Technical Checklist](https://webaim.org/standards/wcag/checklist)
 
-[33 concepts every JavaScript developer should know]: https://github.com/leonardomso/33-js-concepts
-[Best JavaScript books, tutorials, courses & videos]: https://reactdom.com/blog/javascript-books
-[Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
-[Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
-[Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
+### Documentation
++ [Bootstrap](https://getbootstrap.com/) 
 
-[//]: # (Reference links to authors)
-[Leonardo Maldonado]: https://github.com/leonardomso
-[ReactDOM]: https://reactdom.com
-[Andrei Neagoie]: https://twitter.com/AndreiNeagoie
-[P1xt]: https://github.com/P1xt
-[Shovan Chatterjee]: https://github.com/shovanch
+### Blogs and Podcasts
++ D
 
-----
+### Books and Manuals
++ [Joshua Levy’s The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
++ [Writing on GitHub](https://help.github.com/en/github/writing-on-github)
 
-## Highlights
+---
 
-The most interesting of what I'm watching, reading, and doing:
+## Extra Goal
 
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
++ Every week, write a post about that week's learnings.
++ Make a habit of coding daily (other than for work)
++ Get outside!
 
-And here is a chronological log of the highlights of my learning:
+---
 
-[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
+## Acknowledgments
 
-----
+This tracker was inspired by:
++ [Syk Houdeib’s](https://twitter.com/Syknapse) [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) through his posts on Medium for freeCodeCamp 
+    - [How I got my first developer job at age 40 after 10 months of hard work](https://medium.com/free-code-camp/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)
+    - [The tools and resources that landed me a front-end developer job](https://medium.com/free-code-camp/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f)
++ [Kamran Ahmed’s](https://twitter.com/kamranahmedse) [Roadmaps](https://roadmap.sh/roadmaps)
++ [P1xt’s guides](https://github.com/P1xt/p1xt-guides)
++ [Alex Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it. 
+    - If you haven’t done so, also check out [#100DaysOfX](https://www.100daysofx.com/) and learn how Alex has adapted the Challenge to help change habits other than coding.
++ [James Clear’s](https://twitter.com/JamesClear) habit changing strategies and technique from his book [Atomic Habits](https://jamesclear.com/atomic-habits)
 
-## Interests
+---
 
-I'm currently interested in/excited about:
+## Notes
 
-+ React
-+ JavaScript best practice
-+ Object Oriented Programming
+If you like this repo and find it useful, please consider starring it ★ (on the top right of the page).
 
-----
+If you would like to use it as a template to track your own learning, you can fork the repo and customize the files to your own needs.
 
-## Web Development Checklist
+---
 
-This is a list of basic objectives to meet on the road to mastering web development.
+## License
 
-It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
-
-
-* [x] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
-* [x] Read a book about coding
-* [x] Open your browser console
-* [x] Get data from an API
-* [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
-* [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
-* [x] Participate in a hackathon
-* [x] Deploy a project
-* [ ] Ship your project to a store
-* [ ] Contribute to open source
-* [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
-
-----
-
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
-
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
-
-----
-
-### Acknowledgments
-
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
-
-### License
-
-[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE)
+[MIT License](https://github.com/jadefiredev/Skills-Tracker/blob/master/LICENSE)
