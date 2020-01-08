@@ -8,12 +8,6 @@
 [progress]: https://user-images.githubusercontent.com/17075861/71946727-e3c66f00-3187-11ea-9245-9d08256aac58.png "in progress"
 
 
-|       Type    |     Status / Date     |   Project         |   Description                                                                         |   Skills / Tech   |
-|:-------------:|:----------------------|:------------------|:-------------------------------------------------------------------------------------:|:--------------:|
-|Course Work    | ![done] / Dec 2019    |[Tic Tac Toe]      |Design and implement a responsive website for a minimum of two platforms while adhering to validation and accessibility standards|HTML5, CSS3, JavaScript, Bootstrap 4, responsive web design, web accessibility |
-|Independent    | ![progress] / Dec 2019    |[Tic Tac Toe]      |Design and implement a responsive website for a minimum of two platforms while adhering to validation and accessibility standards|HTML5, CSS3, JavaScript, Bootstrap 4, responsive web design, web accessibility |
-
-
 ## Tic Tac Toe
 
 > **Status:** ![done] Dec 2019
@@ -21,5 +15,5 @@
 > **Type:** Course Work
 >
 > **Description:** Design and implement a responsive website for a minimum of two platforms while adhering to validation and accessibility standards
-
+>
 > **Skills/Tech Used:** HTML5, CSS3, JavaScript, Bootstrap 4, responsive web design, web accessibility
